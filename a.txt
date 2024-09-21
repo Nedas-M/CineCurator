@@ -1,0 +1,4 @@
+MACHINE LEARNING 
+
+- USED Bag of Words & TF-IDF (Term Frequency - Inverse Document Frequency)
+- Cosine similarity
