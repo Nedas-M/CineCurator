@@ -1,3 +1,5 @@
 .env
 __pycache__/
 movieCache.sqlite
+.ipynb_checkpoints/
+Untitled.ipynb
