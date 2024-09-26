@@ -3,3 +3,5 @@ __pycache__/
 movieCache.sqlite
 .ipynb_checkpoints/
 Untitled.ipynb
+plan.txt
+tmdb_5000_movies.csv

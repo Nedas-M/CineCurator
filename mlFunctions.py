@@ -8,7 +8,14 @@ def extract_genre_names(genre_list):
         return ''
 
 def recommend(movie, newMovies, similarity):
-    index = newMovies[newMovies['title']==movie].index[0]
-    distance = sorted(list(enumerate(similarity[index])), reverse=True, key=lambda vector:vector[1])[:10]
+    index = newMovies[newMovies['title'] == movie].index[0]
+    print(f"Similarity scores for {movie}: {similarity[index]}")
+    distance = sorted(
+        list(enumerate(similarity[index])), 
+        reverse=True, # if reverse=True it picks the lowest similarity score
+        key=lambda vector: vector[1]
+    )[:10]
+
     for i in distance:
-        print(newMovies.iloc[i[0]].title)
+        if newMovies.iloc[i[0]].title != movie:
+            print(newMovies.iloc[i[0]].title)

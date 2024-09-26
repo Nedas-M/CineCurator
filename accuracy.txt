@@ -1,0 +1,24 @@
+MANUAL EVALUATION
+
+	testing based off of these 20 movies:
+
+The Shawshank Redemption (1994) - Drama
+Inception (2010) - Sci-Fi, Thriller
+The Godfather (1972) - Crime, Drama
+The Dark Knight (2008) - Action, Superhero
+Forrest Gump (1994) - Drama, Romance
+Pulp Fiction (1994) - Crime, Thriller
+The Lord of the Rings: The Fellowship of the Ring (2001) - Fantasy, Adventure
+Spirited Away (2001) - Animation, Fantasy
+Parasite (2019) - Thriller, Drama
+The Matrix (1999) - Sci-Fi, Action
+La La Land (2016) - Musical, Romance
+The Silence of the Lambs (1991) - Thriller, Horror
+Gladiator (2000) - Action, Drama
+Schindler's List (1993) - Historical Drama
+Mad Max: Fury Road (2015) - Action, Adventure
+Her (2013) - Sci-Fi, Romance
+Interstellar (2014) - Sci-Fi, Adventure
+A Clockwork Orange (1971) - Sci-Fi, Drama
+Get Out (2017) - Horror, Thriller
+Amélie (2001) - Romance, Comedy
