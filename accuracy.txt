@@ -1,4 +1,4 @@
-MANUAL EVALUATION
+MANUAL EVALUATION (80% accuracy, looks at genres and descriptions, can lead to issues with very new & old movies due to small (5000) size of database)
 
 	testing based off of these 20 movies:
 
