@@ -1,3 +1,5 @@
+# Functions to scrape top 10 movies in theatres and in current year
+
 from bs4 import BeautifulSoup
 import requests
 import requests_cache

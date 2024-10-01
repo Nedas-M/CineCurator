@@ -1,3 +1,5 @@
+# Functions to get genre names from column & finding top 10 most similar movies
+
 import ast
 
 # Function to extract genre names from a string representation of a list

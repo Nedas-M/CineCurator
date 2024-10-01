@@ -1,3 +1,5 @@
+# Scraping top 10 movies
+
 from scraperFunctions import fetchData, extractData, printData
 from dotenv import load_dotenv
 import os
