@@ -1,1 +1,1 @@
-# Movie Recommendor & Top movie email list
+# Movie Recommender & Top movie web scraper
